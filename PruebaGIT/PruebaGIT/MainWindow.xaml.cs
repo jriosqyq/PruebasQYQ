@@ -24,7 +24,7 @@ namespace PruebaGIT
         {
             InitializeComponent();
 
-            //prueba de sincronizacion
+            //prueba de sincronizacion uno 
         }
     }
 }
